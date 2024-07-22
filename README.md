@@ -1,6 +1,6 @@
 # Cyber Security Worksheets
 
-Welcome to my repository of cyber security worksheets, compiled while studying for the Google Cyber Security Certification. This collection serves as a resource for key concepts and practices in cyber security, which might be particularly useful if I pursue a role in Federal Network Security (FNS).
+Welcome to my repository of cyber security worksheets, compiled while studying for the Google Cyber Security Certification. This collection serves as a resource for key concepts and practices in cyber security, which might be particularly useful if I pursue a role in Network Security.
 
 ## Overview
 
